@@ -1,0 +1,10 @@
+c:\users\jim\documents\visual studio 2015\Projects\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+C:\Users\Jim\Documents\GitHub\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+C:\Users\Jim\Documents\GitHub\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe
+C:\Users\Jim\Documents\GitHub\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.pdb
+C:\Users\Jim\Documents\GitHub\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Documents\GitHub\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Form1.resources
+C:\Users\Jim\Documents\GitHub\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+C:\Users\Jim\Documents\GitHub\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.Cache
+C:\Users\Jim\Documents\GitHub\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe
+C:\Users\Jim\Documents\GitHub\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.pdb
